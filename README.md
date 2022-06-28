@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HerbOwen
-- 👀 I’m interested in ...Wev Dev
-- 🌱 I’m currently learning ...DNS
-- 💞️ I’m looking to collaborate on ..nothing as of now
+- 👀 I’m interested in ...Wev Dev (JS, CSS, HTML, RWD, NODE, PHP, ETC)
+- 🌱 I’m currently learning ...GitHub
+- 💞️ I’m looking to collaborate on ..Learning
 - 📫 How to reach me ...nftmpd@gmail.com
 
 <!---
