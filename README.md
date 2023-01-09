@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HerbOwen
-- 👀 I’m interested in ...Wev Dev (JS, CSS, HTML, RWD, NODE, PHP, ETC)
+- 👀 I’m interested in ...Wev Dev (JS, CSS, HTML, RWD, REACT, BOOTSTRAP, PHP)
 - 🌱 I’m currently learning ...GitHub
 - 💞️ I’m looking to collaborate on ..Learning
 - 📫 How to reach me ...latimerlandscaping@hotmail.com
