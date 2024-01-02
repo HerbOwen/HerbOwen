@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HerbOwen
-- 👀 I’m interested in ...Wev Dev (JS, CSS, HTML, RWD, REACT, BOOTSTRAP, PHP)
-- 🌱 I’m currently learning ...GitHub
-- 💞️ I’m looking to collaborate on ..connecting with other people learning
+- 👀 I’m interested in ...Wev Dev (Next.JS, React, etc)
+- 🌱 I’m currently learning ...Next.js
+- 💞️ I’m looking to collaborate on ...nothing at the moment
 - 📫 How to reach me ...herbswebdev@gmail.com
 
 <!---
