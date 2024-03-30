@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HerbOwen
-- 👀 I’m interested in ...Wev Dev (Next.JS, React, etc)
+- 👀 I’m interested in ...Wev Dev (Next.JS)
 - 🌱 I’m currently learning ...Next.js
 - 💞️ I’m looking to collaborate on ...nothing at the moment
 - 📫 How to reach me ...herbswebdev@gmail.com
